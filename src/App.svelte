@@ -54,7 +54,7 @@
 
 <main>
   <div class="header">
-    <img src="public\images\Icono.png" width="100" alt="icono" />
+    <img src="../images/Icono.png" width="100" alt="icono" />
     <h3 class="headline">
       <b> Redes Reveladas: Explorando Tendencias de Uso </b>
     </h3>
@@ -141,7 +141,7 @@
 
     <div class="containerEdad">
       <svg class="Edad">
-        <image class="RolClase" xlink:href="public\images\Edad.png" />
+        <image class="RolClase" xlink:href="../images/Edad.png" />
       </svg>
       <p class="tituloRC">Rol de la Clase</p>
       <p class="Alumno">Alumno</p>
@@ -150,7 +150,7 @@
 
     <div class="containerGenero"> 
       <svg class="Gen">
-        <image class="IGenero" xlink:href=public\images\Genero.png/>
+        <image class="IGenero" xlink:href=../images/Genero.png/>
       </svg>
       <p class="tituloG">Género</p>
       <p class="Mujer">Mujer</p>
@@ -160,7 +160,7 @@
 
     <div class="containerRedSocialMasUsada"> 
       <svg class="RedSocialMasUsada">
-        <image class="RSMasUsada" xlink:href=public\images\RedSocialMasUsada.png/>
+        <image class="RSMasUsada" xlink:href=../images/RedSocialMasUsada.png/>
       </svg>
       <p class="tituloRS">Red social más usada</p>
       <p class="Instagram">Instagram</p>
@@ -174,7 +174,7 @@
 
     <div class="containerMotivosUso"> 
       <svg class="MotivosUso">
-        <image class="MUsos" xlink:href="public\images\MotivosDeUso.png"/>
+        <image class="MUsos" xlink:href="../images/MotivosDeUso.png"/>
       </svg>
       <p class="tituloMotivosU">Motivos de uso</p>
       <p class="Lab">Laboral</p>
@@ -185,7 +185,7 @@
 
     <div class="containerMomentoUso"> 
       <svg class="MomentoUso">
-        <image class="MUso" xlink:href=public\images\MomentoDeUso.png/>
+        <image class="MUso" xlink:href=../images/MomentoDeUso.png/>
       </svg>
       <p class="tituloMU">Momento que más usas redes </p>
       <p class="Mañana">Mañana</p>
@@ -196,7 +196,7 @@
 
     <div class="containerHorasDeUsoDia"> 
       <svg class="HorasDeUsoDia">
-        <image class="HorasDia" xlink:href=public\images\HorasDeUso.png/>
+        <image class="HorasDia" xlink:href= ../images/HorasDeUso.png/>
       </svg>
       <p class="tituloHU">Horas de uso al día</p>
       <p class="horas1-2">1-2 horas</p>
@@ -208,7 +208,7 @@
 
     <div class="containerFormas"> 
       <svg class="FormasPrinc">
-        <image class="FormasP" xlink:href=public\images\FormasProtagonistas.png/>
+        <image class="FormasP" xlink:href=../images/FormasProtagonistas.png/>
       </svg>
       <p class="tituloFP"> Red social favorita</p>
       <p class="Video"><strong>Video</strong> TikTok Youtube</p>
