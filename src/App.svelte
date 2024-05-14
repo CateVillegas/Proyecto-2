@@ -225,11 +225,12 @@
   @import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Chelsea+Market&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rock+Salt&family=Sedgwick+Ave&display=swap');
 
   .header {
+    
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 0;
+    margin-top: 0%;
     margin-bottom: 80px;
   }
 
@@ -237,18 +238,18 @@
     width: 70%;
     line-height: 1.4; 
     font-family: "Chelsea Market", system-ui;
-    font-size: 35px;
+    font-size: 30px;
     color: black;
     font-weight: 900;
     text-align: center;
-    margin: 20px;
+    margin: 0px;
   }
 
   .bajada {
     font-size: 14px;
     font-weight: normal;
     text-align: center;
-    margin: 10px;
+    margin: 20px;
     color: black;
     font-family: 'Poppins', sans-serif;
     transform: translateY(-50%);
@@ -265,7 +266,7 @@
     gap: 20px;
     margin-bottom: 100px;
     border-radius: 1%;
-    transform: translateY(-1.3%);
+    transform: translateY(-2.5%);
   }
 
   .persona-container {
